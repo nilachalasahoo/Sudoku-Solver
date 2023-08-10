@@ -1,0 +1,14 @@
+Please enter a 9 * 9 sudoku matrix
+(Note:Enter '0' in place of blank)
+0 1 0 5 2 0 0 0 0
+0 0 0 0 0 6 4 3 0
+0 0 0 0 0 0 0 0 0
+5 0 0 0 0 0 9 0 0
+0 0 0 0 0 0 0 5 0
+0 0 0 5 0 0 0 0 0
+9 0 0 0 0 3 0 0 0
+0 0 6 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+
+You entered an invalid sudoku
+This sudoku can't be solved
